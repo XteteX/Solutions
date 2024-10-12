@@ -1,0 +1,6 @@
+p1 = input()
+p2 = input()
+p3 = input()
+print(p3)
+print(p2)
+print(p1)
